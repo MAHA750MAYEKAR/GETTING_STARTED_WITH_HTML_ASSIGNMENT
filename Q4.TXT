@@ -1,0 +1,23 @@
+Write short note on tag and element with example.
+ANSWER:
+HTML TAG:
+An HTML tag is commonly defined as a set of characters constituting a formatted command for a Web page. At the core of HTML, tags provide the directions or recipes for the visual content that one sees on the Web
+A tag is a pair which has opening tag and a closing tag
+All HTML tags must enclosed within < > these brackets.
+Every tag in HTML perform different tasks.
+
+EXAMPLE:1) <p> Paragraph Tag </p>
+
+2)<h2> Heading Tag </h2>
+3)<b> Bold Tag </b>
+
+4)<i> Italic Tag </i>
+
+5)<u> Underline Tag</u>
+
+HTML ELEMENT:
+An element in HTML usually consist of a start tag <tag name>, close tag </tag name> and content inserted between them
+
+EXAMPLE
+<p> Paragraph Tag </p>
+Where<p> is opening tag and</p> is closing tag andthe content is written in between them 

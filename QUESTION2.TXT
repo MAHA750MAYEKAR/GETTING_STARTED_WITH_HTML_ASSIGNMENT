@@ -1,0 +1,4 @@
+ Q)Explain the purpose of comment in HTML and provide an example on how to use comment in HTML document
+ANSWER:A comment  in HTML is basically a text note that gives an explanation about the source code.
+comments are basically not rendered on the web browser.It is use to write explanation about the code so that we can refer it at latertimes
+ 

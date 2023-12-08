@@ -1,0 +1,4 @@
+What is DOCTYPE declaration in HTML?
+ANSWER
+The HTML document type declaration, also known as DOCTYPE, is the first line of code required in every HTML
+Which is used to inform the browser about the version of HTML used in the document. 
